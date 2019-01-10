@@ -3,6 +3,6 @@ This repository will serve as written documentation of what is covered during my
 
 Outside of pushing code to GitHub, time is spent on tutorials and other coding platforms that typically host your code and as a result, there is no pushing of code to GitHub. This can go on for days or weeks at a time.  Does that then mean that an individual hasn't been coding? No, it doesn't and hence, this is where the coding journal comes in. To document the time spent elsewhere, learning, reading, trying code samples, leveling-up.#
 
-## Indirect Benefits of a Journaling my Journey 
+## Indirect Benefits of Journaling my Journey 
 * It helps me gauage how well I grasp what I have learned
 * I get to the opportunity improve my markdown knowledge  
