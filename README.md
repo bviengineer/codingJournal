@@ -6,3 +6,6 @@ Outside of pushing code to GitHub, time is spent on tutorials and other coding p
 ## Indirect Benefits of Journaling my Journey 
 * It helps me gauage how well I grasp what I have learned
 * I get to the opportunity improve my markdown knowledge  
+
+#### Lesson Learned
+Markdown does not spell check :laughing: :mag: :pencil:
