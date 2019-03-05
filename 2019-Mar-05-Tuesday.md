@@ -1,4 +1,4 @@
-# THEORY | LECCTURE DAY!:book::pen::school::computer:
+# THEORY | LECTURE DAY!:book::pen::school::computer:
 <!-- Photo obtained from Pixaby. No attribution is required. As a thank you and visibility to Pixaby and the author, [here's the link](<a href="">Clker-Free-Vector-Images</a> on Pixabay -->
 ![Classroom](img/classroom.png) 
 ###### Photo obtained from Pixaby. No attribution is required. However, as a thank you to and visibility for, Pixaby and the author, [here's a link to the image](https://pixabay.com/vectors/classroom-blackboard-class-learning-42275/) by [Clker-Free-Vector-Images](https://pixabay.com/users/Clker-Free-Vector-Images-3736/) on [Pixabay's website](https://pixabay.com/).
@@ -67,3 +67,29 @@ As mentioned during [my last review day](https://github.com/bviengineer/codingJo
   else
   end
 ```
+<hr>
+
+## [JavaScript via Go Make Things](https://gomakethings.com)
+Continued with DOM manipulation and reviewed:
+* Selecting Elements
+  * `getElementsByClassName()`
+  * `getElementsByTagName()`
+  * `matches()`
+    * checks to see if a particular method would be selected by a particular selector or selectors. 
+    * returns a boolean if a match is found 
+    ```javascript
+      const tag = document.querySelector("#bold-word");
+
+      if(tag.matches("#bold-word")){
+        // if condition evaluates to true
+        console.log("It's a match!");
+      } else {
+        // if condition evaluates to false
+        console.log("It's not a match!");
+      }
+    ````
+  * Selectors that target specfic element types such as `getElementById()` and `getElementsByClassName()` are faster than selectors like `querySelector()` and `querySelectorAll()`
+* Loops
+  * `for loop` to loop through arrays and node lists
+    * `continue` can be used to skip or move on, inside of a loop
+<hr>
