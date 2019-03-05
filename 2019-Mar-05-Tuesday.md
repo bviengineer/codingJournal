@@ -93,3 +93,6 @@ Continued with DOM manipulation and reviewed:
   * `for loop` to loop through arrays and node lists
     * `continue` can be used to skip or move on, inside of a loop
 <hr>
+
+## [AWS CCP]()
+Took the [ACG](https://acloud.guru) AWS Certified Cloud Practioner exam simulator, made up of 65 questions. Scored in the 70's. Will retake test after reading through the AWS white papers.
