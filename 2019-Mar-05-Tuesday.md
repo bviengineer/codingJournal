@@ -1,6 +1,6 @@
 # THEORY | LECTURE DAY!:book::pen::school::computer:
 
-![Classroom](img/maintenance.jpg) 
+![Classroom](img/classroom.png) 
 ###### Photo obtained from Pixaby. No attribution is required. However, as a thank you to and visibility for, Pixaby and the author, [here's a link to the image](https://pixabay.com/vectors/classroom-blackboard-class-learning-42275/) by [Clker-Free-Vector-Images](https://pixabay.com/users/Clker-Free-Vector-Images-3736/) on [Pixabay's website](https://pixabay.com/).
 <hr>
 

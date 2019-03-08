@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+  </head>
+  </body>
+<!--Hello Camper!
+For now, the test suite only works in Chrome! Please read the README below in the JS Editor before beginning. Feel free to delete this message once you have read it. Good luck and Happy Coding! 
+- The freeCodeCamp Team -->
+  <h1 id="title">Survey Form</h1>
+
+  <p id="description">Please complete the survey below. It will provide us with valuable feedback as to what we are doing right and how we can improve. Thank you!</p>
+
+  <!-- form element begins here -->
+  <form action="#" method="POST" id="survey-form">
+    <div>
+      <label for="name" id="name-label">* Name:</label>
+      <input type="text" placeholder="Enter your Name" id="name">
+    </div>
+    <div>
+      <label for="email" id="email-label">* Email:</label>
+      <input type="email" placeholder="Enter your Email" id="email">
+    </div>
+    <div>
+      <label for="number" id="number-label">* Age:</label>
+        <input type="number" min="" max="" placeholder="Age" id="number">
+    </div>
+    <!--Dropdown, user role -->
+    <div>
+      <label for="role" id="role-label">Which option best describes your current role?</label> 
+      <select id="dropdown" name="role">
+        <option value="student" selected>Student</option>  
+        <option value="full-time-job">Full Time Job</option>
+        <option value="full-time-learner">Full time Learner</option>
+        <option value="prefer-not-to-say">Prefer not to say</option>
+        <option value="other">Other</option>
+      </select>
+    </div>
+
+    <!--Radio button group, recommend FCC-->
+    <p>How likely is that you would recommend FreeCodeCamp to a friend?</p>
+    <div>
+      <input type="radio" id="definitely" value="definitely" name="recommend">
+      <label for="recommend" id="definitely-label">Definitely</label>
+    </div>     
+    <div>
+      <input type="radio" id="maybe" value="maybe" name="recommend">  
+      <label for="recommend" id="maybe-label">Maybe</label>
+    </div>
+    <div>
+      <input type="radio" id="not-sure" value="not-sure" name="recommend">
+      <label for="not-sure" id="not-sure-label" name="recommend">Not sure</label>
+    </div>
+    
+    <!--Dropdown, what do you like most about FCC-->
+    <div>
+      <label for="preference" id="preference-label">What do you like most in FCC:</label>
+      <select id="preference">
+        <option selected>Select an option</option>
+        <option value="challenges">Challenges</option>
+        <option value="projects">Projects</option>
+        <option value="community">Community</option>
+        <option value="open-source">Open Source</option>
+      </select>
+    </div>
+
+    <!--Checkboxes-->
+    <fieldset>
+      <legend>Things that should be improved in the future (check all that apply):</legend>
+
+      <div>
+        <input type="checkbox" name="front-end" value="frontend" id="front-end">
+        <label for="front-end">Front-End Projects</label>
+      </div>
+
+      <div>
+        <input type="checkbox" name="back-end" value="backend" id="back-end">
+        <label for="back-end">Back-End Projects</label>
+      </div>
+
+      <div>
+        <input type="checkbox" name="data-visualization" value="datavisualization" id="data-visualization">
+        <label for="data-visualization">Data data-visualization</label>
+      </div>
+
+      <div>        
+        <input type="checkbox" name="challenges" value="challenges" id="challenges">
+        <label for="challenges">Challenges</label>
+      </div>
+
+      <div>
+        <input type="checkbox" name="open-source-community" value="opensourcecommunity" id="open-source-community">
+        <label for="open-source-community">Oopen Source Community</label>
+      </div>
+
+      <div>
+        <input type="checkbox" name="gitter" value="gitter" id="gitter">
+      <label for="gitter">Gitter help rooms</label>
+      </div>
+
+      <div>
+        <input type="checkbox" name="meetups" value="meetup`" id="meetups">
+        <label for="meetups">City Meetups</label>
+      </div>
+
+      <div>
+        <input type="checkbox" name="wiki" value="wiki" id="wiki">
+        <label for="wiki">Wiki</label>
+      </div>
+
+      <div>
+        <input type="checkbox" name="forum" value="forum" id="forum">
+        <label for="forum">Forum</label>
+      </div>
+
+      <input type="checkbox" name="additional-courses" value="additionalcourses" id="additional-courses">
+      <label for="additional-courses">Additional Courses</label>
+    </fieldset>
+
+    <label for="comments">Any Comments or Suggestions?</label>
+      <textarea type="text" id="comments" rows="5" cols="40">Enter your comment here...</textarea>
+
+    <button type="submit" id="submit">Submit</button>
+  </form>
+  </body>
+</html>
