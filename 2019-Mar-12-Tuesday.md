@@ -122,4 +122,74 @@ Reviewed:
   * `cd` - used to change directories
   * `rm` - used to remove files and directories
   * `pwd` - prent working director
-  <hr>
+<hr>
+
+## [Go Make Things](https://gomakethings.com)
+Continued the Go Make Things JavaScript curriculum and picked up on __loops__. See my [JavaScript Repl](https://repl.it/@bviengineer/TruthfulUnfitPerimeter) for notes and code trials.
+* `for loops` => loops through `arrays` and `strings`
+  ```JavaScript
+    const arr = [1, 2, 3, 4];
+    const str = "JavaScript";
+
+    //For loop: array
+    console.log("Content of arr, an array");
+    for(let i = 0; i < arr.length; i++){
+      console.log(arr[i]);
+    }
+    // output:
+    // 1 
+    // 2 
+    // 3 
+    // 4
+    
+    //For loop: string
+    console.log("Content of str, a string");
+    for(let i = 0; i < str.length; i++){
+      console.log(str[i]);
+    }
+      // output:
+      // J 
+      // a 
+      // v 
+      // a 
+      // S 
+      // c 
+      // r 
+      // i 
+      // p 
+      // t
+  ```
+* `for in loop` => loops through `objects`
+  ```javascript
+    let meal = {
+      sandwich: 'turkey',
+      snack:    'chips',
+      drink:    'juice',
+      desert:   'cake',
+      guests:   5,
+      alcohol:  false
+    };
+
+    for(let key in meal){
+      console.log(key);
+      console.log(meal.hasOwnProperty(key)); // returns a boolean: true
+      // or false
+      console.log(meal[key]); //outputs value assigned to each property
+    }
+
+      let object = {
+        bible: 'Genesis',
+        chapter: '1',
+        verse: '1'
+      };
+
+      
+      let objectString = "";
+
+      for(let key in object){
+        objectString += object[key] + " ";
+      }
+
+      console.log(objectString); // Genesis 1 1
+  ```
+<hr>
