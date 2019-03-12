@@ -122,7 +122,7 @@ Reviewed:
   * `mkdir` - used to create a new directory
   * `cd` - used to change directories
   * `rm` - used to remove files and directories
-  * `pwd` - prent working director
+  * `pwd` - present working directory
 <hr>
 
 ## [Go Make Things](https://gomakethings.com)
