@@ -53,7 +53,7 @@ Reviewed Array Methods and enumerables. Here's the link to my `Ruby` [repl.it](h
     puts is_palindrome('madam') # true
     puts is_palindrome('hello') # false
   ```
-* `range slicing` using `[index..index]` and `[index...index]` => obtaining a number of array elements at a given time. It works on arrays and strings
+* `range slicing` using `[index..index]` and `[index...index]` => obtaining a range of array elements at a given time. It works on arrays and strings
   ```ruby
     arr = ["a", "b", "c", "d", "e"]
     
@@ -94,14 +94,14 @@ Reviewed Array Methods and enumerables. Here's the link to my `Ruby` [repl.it](h
   ## [Collaborating with Git]()
   Given that I'm working on [team project](https://github.com/bviengineer/frontend-mentor-huddle-collaboration), it is evident that I need to review on my git collaboration skills. 
   **The issues => in a nutshell**
-  * I `cloned` instead of `forking` the team project or repository that was hostsed by another team member
+  * I `cloned` instead of `forked` the team project or repository that was hostsed by another team member
   * Everyone had to ultimately `fork` my version of the project
-  * I created a feature branch which have changes that I had trouble merging into the master for syncing with the master project branch
+  * I created a feature branch contain changes that I had trouble merging into my master branch which is the project's master branch
   
   **Lessons Reviewed**
   * [GIT: Branching](https://youtu.be/JTE2Fn_sCZs)
   * [GIT: Merging and Workflow](https://youtu.be/0iuqXh0oojo)
-  * [Version Control with Git](https://www.udacity.com/course/ud123) offered for free by Udacity and is one of THE best Git | GitHub courses I have ever encountered
+  * [Version Control with Git](https://www.udacity.com/course/ud123) offered for free by Udacity and is one of **THE best** Git | GitHub courses I have ever encountered
     * [Git key terms](chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=https://s3.amazonaws.com/video.udacity-data.com/topher/2017/June/59399479_ud123-git-keyterms/ud123-git-keyterms.pdf) 
 
 
@@ -116,6 +116,7 @@ Reviewed:
     * new files that are not yet being tracked
     * modification of existing or tracked files
 <br>
+
 * **Command line keywords**. This is a [command line or shell](https://www.udacity.com/course/shell-workshop--ud206) course offered for free by [Udacity](https://udacity.com)
   * `ls` - used to list files and directories
   * `mkdir` - used to create a new directory
