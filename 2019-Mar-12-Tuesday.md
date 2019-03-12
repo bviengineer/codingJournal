@@ -90,3 +90,36 @@ Reviewed Array Methods and enumerables. Here's the link to my `Ruby` [repl.it](h
     # in the string
   ```
   <hr>
+
+  ## [Collaborating with Git]()
+  Given that I'm working on [team project](https://github.com/bviengineer/frontend-mentor-huddle-collaboration), it is evident that I need to review on my git collaboration skills. 
+  **The issues => in a nutshell**
+  * I `cloned` instead of `forking` the team project or repository that was hostsed by another team member
+  * Everyone had to ultimately `fork` my version of the project
+  * I created a feature branch which have changes that I had trouble merging into the master for syncing with the master project branch
+  
+  **Lessons Reviewed**
+  * [GIT: Branching]()
+  * [GIT: Merging and Workflow](https://youtu.be/0iuqXh0oojo)
+  * [Version Control with Git](https://www.udacity.com/course/ud123) offered for free by Udacity and is one of THE best Git | GitHub courses I have ever encountered
+    * [Git key terms](chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=https://s3.amazonaws.com/video.udacity-data.com/topher/2017/June/59399479_ud123-git-keyterms/ud123-git-keyterms.pdf) 
+
+
+**Version Controal with Git**
+Reviewed:
+* `git init` 
+  * initalizes or creates a new `git` repository on your computer
+* `git clone` 
+  * copies an existing reposistory from somewhere else to your local computer
+* `git status` 
+  * checks the stauts of your local `git` repository that includes:
+    * new files that are not yet being tracked
+    * modification of existing or tracked files
+<br>
+* **Command line keywords**. This is a [command line or shell](https://www.udacity.com/course/shell-workshop--ud206) course offered for free by [Udacity](https://udacity.com)
+  * `ls` - used to list files and directories
+  * `mkdir` - used to create a new directory
+  * `cd` - used to change directories
+  * `rm` - used to remove files and directories
+  * `pwd` - prent working director
+  <hr>
