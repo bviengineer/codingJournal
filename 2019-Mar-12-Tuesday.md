@@ -99,7 +99,7 @@ Reviewed Array Methods and enumerables. Here's the link to my `Ruby` [repl.it](h
   * I created a feature branch which have changes that I had trouble merging into the master for syncing with the master project branch
   
   **Lessons Reviewed**
-  * [GIT: Branching]()
+  * [GIT: Branching](https://youtu.be/JTE2Fn_sCZs)
   * [GIT: Merging and Workflow](https://youtu.be/0iuqXh0oojo)
   * [Version Control with Git](https://www.udacity.com/course/ud123) offered for free by Udacity and is one of THE best Git | GitHub courses I have ever encountered
     * [Git key terms](chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=https://s3.amazonaws.com/video.udacity-data.com/topher/2017/June/59399479_ud123-git-keyterms/ud123-git-keyterms.pdf) 
