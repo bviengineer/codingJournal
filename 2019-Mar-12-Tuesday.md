@@ -194,3 +194,11 @@ Continued the Go Make Things JavaScript curriculum and picked up on __loops__. S
       console.log(objectString); // Genesis 1 1
   ```
 <hr>
+
+## [Treehouse](https://teamtreehouse.com)
+Worked through JavaScript and the DOM module and focused on:
+* Functions as parameters
+* `setTimeout()` function 
+* Events and function parameters review quiz
+* Listening for events using `addEventListener()`
+<hr>
