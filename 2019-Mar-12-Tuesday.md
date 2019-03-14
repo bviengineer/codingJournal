@@ -111,6 +111,8 @@ Reviewed:
   * initalizes or creates a new `git` repository on your computer
 * `git clone` 
   * copies an existing reposistory from somewhere else to your local computer
+* `git log`
+  * to review existing commits from the command line
 * `git status` 
   * checks the stauts of your local `git` repository that includes:
     * new files that are not yet being tracked
