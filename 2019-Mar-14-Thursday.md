@@ -57,7 +57,7 @@ Continued review of **Array Methods & Enumerables** and reviewed:
         # as a string, replacing appearances of l's with X's. 
     ```
 
-See my **[Ruby Repl.it](https://repl.it/@bviengineer/StupidOurCommunication)** here to run the code examples
+See my **[Ruby Repl.it here](https://repl.it/@bviengineer/StupidOurCommunication)** to run the code examples
 <hr>
 
 ## [Go Make Thiings](https://gomakethings.com)
