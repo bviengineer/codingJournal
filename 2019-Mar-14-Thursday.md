@@ -58,3 +58,55 @@ Continued review of **Array Methods & Enumerables** and reviewed:
     ```
 
 See my **[Ruby Repl.it](https://repl.it/@bviengineer/StupidOurCommunication)** here to run the code examples
+<hr>
+
+## [Go Make Thiings](https://gomakethings.com)
+Resumed DOM manipulation methods and reviewed:
+* `arr.forEach()` 
+  * => calls a function once for each element in an **array** in acending order. Unlike `for loops`, `forEach()` does not interate through `string` data types.
+  * Unlike `for loops`, the need for an incrementer variable, increasing/decreasing the incrementer variable, and checking the status of the incremeter variable against the test condition, are eliminated. 
+  <br>
+
+* `NodeList.forEach()` 
+  * => iterates over nodeLists
+  * requires more digging, the examples are confusing.
+<br>
+
+* `Object.keys(objectName)`
+  * => `ES6` way of looping through objects
+  * returns the `keys` or `object keys` of an object
+  * `.forEach()` can be chained to the end to access and loop through the list of values assigned to each key.
+    ```javascript
+      // Examples
+
+      let bible = {
+        bible: 'Genesis',
+        chapter: '1',
+        verse: '1'
+      };
+
+      //prints the object keys only
+      console.log(Object.keys(bible));
+      // OUTPUT: ['book', 'chapter', 'verse']
+
+
+      //prints the object keys and their corresponding values
+      Object.keys(bible).forEach((value) => {
+        console.log(value) //outputs the object's keys
+        console.log(bible[value]) //outputs the values assigned 
+        //to the object's keys
+      });
+
+      /* 
+        OUTPUT:
+         Object keys then values:
+          bible   => key
+          Genesis => value
+          chapter => key
+          1       => value
+          verse   => key
+          1       => value
+      */
+    ```
+    See my **[JavaScript Repl.it here](https://repl.it/@bviengineer/TruthfulUnfitPerimeter)** to run the code examples
+    <hr>
