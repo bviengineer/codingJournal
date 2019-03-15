@@ -111,3 +111,38 @@ Resumed DOM manipulation methods and reviewed:
     ```
     See my **[JavaScript Repl.it here](https://repl.it/@bviengineer/TruthfulUnfitPerimeter)** to run the code examples
     <hr>
+    
+    ## [Git]()
+    In an effort to improve my collaboration skills, resumed review git of on [Udacity](https://udacity.com). Looked over the following concepts:
+    * `git add` 
+      * stages files by moving untracked files to the staging area or staging index
+    * `git rm --cached <file>`
+      * moves "staged" files back to the working directory or it 'unstages' files
+    * `git commit`
+      * moves a staged file to the respository; opens default text editor for commit message to be added
+    * `git commit -m`
+      * moves or commits a staged file to thhe repository bypassing the text editor and allowing the commit message to be accepted at once
+    * `git log`
+      * view details of [a] commit(s) including the message body
+    * `git log -p`
+    * `git log --oneline`
+      * shows information for a given commit on a single line 
+  <br>
+  
+    * `git tag`
+      * creates a lightweight tag
+      * allows you to add labels to commits
+    `git tag -a`
+      * creates an annotated flag which is recommended and provides extra info such as:
+        * the person who created tag
+        * date the tag was made
+        * a message for the tag
+    * `git tag -d`
+      * allows you to delete tags by referencing the name of the tag
+      * `d` means delete
+    * `git branch`
+      * branches allows you to create parallel and separate branches for the development of specific feature
+    * `git checkout`
+      * switch between branches and tags
+    * `git merge`
+      * combine changes on branches
