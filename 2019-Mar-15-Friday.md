@@ -1,6 +1,6 @@
->>>>>>>>># Q&A DAY :question::pencil::hourglass_flowing_sand:
+>>>>>>>>>>>>>>># Q&A DAY :question::pencil::hourglass_flowing_sand:
 
-Today was set aside as a Q&A day, a day to articulate my thoughts and knowledge on technical and development concepts, practice potential whiteboard exercises.
+Today was set aside as a Q&A day, a day to articulate my thoughts and knowledge on technical and development concepts and practice potential whiteboard exercises.
 
 The questions answered do not live in this repo and include: 
 * Explain the difference between `=`, `==` and `===`
