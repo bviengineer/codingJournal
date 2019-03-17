@@ -11,4 +11,7 @@ Reviewed the Shell workshop lesson and the following commands:
 and is like `console.log` in JavaScript.
 <br>
 
-
+* `ls` - list contents of the current directory
+* `ls <folder_name>` - list content of the specified folder
+* `cd ..` - changes the director up to the parent director
+* `;` or `ls ; cd ..` - a semicolon allows you to list more than one command to be executed. They are executed one at a time in the order listed.
