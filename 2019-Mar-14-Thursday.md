@@ -132,6 +132,7 @@ Resumed DOM manipulation methods and reviewed:
     * `git tag`
       * creates a lightweight tag
       * allows you to add labels to commits
+      * `git tags` don't move when you make commits
     `git tag -a`
       * creates an annotated flag which is recommended and provides extra info such as:
         * the person who created tag
