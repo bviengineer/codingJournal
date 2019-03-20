@@ -13,6 +13,8 @@
     months = ["Jan", "Feb", "Mar", "Apr"]
 
     months.each do |ele| puts ele end
+                  # OR
+    months.each { |ele| puts ele }
     # OUTPUT
     # Jan
     # Feb
