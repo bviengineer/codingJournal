@@ -21,3 +21,22 @@
     # Mar
     # Apr
   ```
+<hr>
+
+### [Repl.it](https://repl.it)
+I use [Repl.it](https://replt.it) to execute code I write while learning and they have a feature that allows you to take classes. To test out how the feature works, I joined one of the classes as a student and selected the `HTML`, `CSS`, `JavaScript`, `JQuery` classroom.
+
+Worked through first HTML handson assigments that covered:
+* writing the basic structure of an `HTML` document and include a `<title></title>` with content
+<br>
+
+* writing the basick structure of an `HTML` element without the `<head></head>` and with an `<h1></h1>` in the body of the body of the document with content
+<br>
+
+* writing an `<ol></ol>` with 6 items
+<br>
+
+* create an `<a>` element that links to an external resource
+<br>
+
+* create an `<a>` element that links to a different section of the same page
