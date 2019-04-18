@@ -1,8 +1,4 @@
-# BUILD DAY!:tada::balloon::boom::construction::hammer:
-![Website Under Construction Sign](img/maintenance.jpg)
-###### Photo obtained from Pixaby. No attribution is required. However, as a thank you to and visibility for, Pixaby and the author, [here's a link to the image](https://pixabay.com/illustrations/maintenance-under-construction-2422171/) by [geralt](https://pixabay.com/users/geralt-9301/) on [Pixabay's website](https://pixabay.com/).
-<hr>
-
+ 
 ## [FreeCodeCamp](https://freecodecamp.org)
 Today I focused on where I left off: FreeCodeCamp Responsive Web Design Projects: _Build a Tribute Page and Build a Survey Form_.
 

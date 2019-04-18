@@ -15,5 +15,5 @@ The project still has some minor fixes that are needed but for the majroity of i
 ## Advanced CSS Course on YouTube
 I took some time to seek out advanced CSS courses and located a course by [Harshad Rupawate](https://youtu.be/ZBw5hWy4hs4) titled: [The Most Advanced CSS Course - Natours Project Setup and First Steps Part 1](https://youtu.be/ZBw5hWy4hs4). 
 
-In this course I learned about the `clip-path` property. This is a new property to me and I have begun a deeper dive.
+In this course I learned about the `clip-path` property. This is a new property to me and I have begun a deeper dive.         
 
